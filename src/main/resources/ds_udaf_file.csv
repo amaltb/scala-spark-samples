@@ -1,0 +1,13 @@
+student_id,subject,mark
+1,bio,48
+1,phy,49
+1,mat,50
+2,bio,48
+2,phy,50
+2,mat,50
+3,bio,44
+3,phy,43
+3,mat,47.5
+4,bio,44
+4,phy,
+4,mat,47

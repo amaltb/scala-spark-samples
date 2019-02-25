@@ -1,0 +1,1 @@
+This is a sample file for word count program. This file is prepared for testing purpose.
